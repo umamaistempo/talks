@@ -57,9 +57,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="365.90942"
-     inkscape:cy="786.06159"
+     inkscape:zoom="0.35"
+     inkscape:cx="682.83867"
+     inkscape:cy="522.43363"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -76,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -306,49 +306,5 @@
            id="tspan5436"
            sodipodi:role="line">Object</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6400;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="81.373367"
-       y="65.480698"
-       id="text5442"><tspan
-         sodipodi:role="line"
-         id="tspan5440"
-         x="81.373367"
-         y="65.480698"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold Italic';fill:#ff6400;fill-opacity:1;stroke-width:0.26458332px">STATE</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6400;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="70.896927"
-       y="84.716759"
-       id="text5442-0"><tspan
-         sodipodi:role="line"
-         id="tspan5440-6"
-         x="70.896927"
-         y="84.716759"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold Italic';fill:#ff6400;fill-opacity:1;stroke-width:0.26458332px">BEHAVIOUR</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6400;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="140.89432"
-       y="75.370483"
-       id="text5442-0-2"><tspan
-         sodipodi:role="line"
-         id="tspan5440-6-6"
-         x="140.89432"
-         y="75.370483"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold Italic';fill:#ff6400;fill-opacity:1;stroke-width:0.26458332px">BEHAVIOUR</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6400;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="131.05452"
-       y="53.920364"
-       id="text5442-1"><tspan
-         sodipodi:role="line"
-         id="tspan5440-8"
-         x="131.05452"
-         y="53.920364"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold Italic';fill:#ff6400;fill-opacity:1;stroke-width:0.26458332px">STATE</tspan></text>
   </g>
 </svg>
