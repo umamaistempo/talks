@@ -5,10 +5,6 @@ A última versão desta apresentação pode ser vista no [Google Presentation](h
 Palestra de nível introdutório e intermediário explicando como Erlang consegue isolar seus processos e por que isso é importante para sistemas tolerantes a falha. A palestra tocará em tópicos como escalonamento (scheduling) de processos, a filosofia Erlang por trás da manipulação de erros e como utilizar supervisores para ter um sistema tolerante a falhas 
 
 ## Apresentações
-## Pagar.me
-- 15 de Setembro de 2017
-- Slides: [PDF](Version%201.0.pdf)
-
 ### Elixir User Group - São Paulo, Meetup #10
 - 29 de Julho de 2017
 - Slides: [PDF](Version%201.0.pdf)
