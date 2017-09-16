@@ -5,6 +5,3 @@ Erlang, com o paradigma funcional como meio, alcança concorrência e tolerânci
 Nesta palestra, iremos discutir os benefícios que essas escolhas de design trazem para o desenvolvimento do “software do mundo real”.
 
 ## Apresentações
-### Grupo de Usuários Ruby - São Paulo, Meetup #45
-- 16 de setembro de 2017
-- Evento: [Meetup](https://www.meetup.com/dev_talk/events/242473854/)
